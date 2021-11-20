@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "JJ Note"
   avatar           : "assets/joker.jpg" # path of avatar image, e.g. "assets/joker.jpg"
   bio              : "Driven to Learn"
   location         : "Somewhere"
