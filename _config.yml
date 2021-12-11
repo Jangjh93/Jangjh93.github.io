@@ -291,5 +291,3 @@ defaults:
       related: true
       show_date: true
       
-baseurl: "/blog_DA"
-url: "http://aliarsalankazmi.github.io" 
