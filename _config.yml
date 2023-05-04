@@ -126,7 +126,9 @@ author:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://www.instagram.com/j.jang111/"
-
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/juhyeon-jang/"
 # Site Footer
 footer:
   links:
@@ -149,6 +151,9 @@ footer:
     #- label: "Instagram"
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://www.instagram.com/j.jang111/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/juhyeon-jang/"
 
 
 # Reading Files
